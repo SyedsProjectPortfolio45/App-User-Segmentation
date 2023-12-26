@@ -5,7 +5,7 @@
 #### Tools used🛠: Python, Machine Learning, Sci-kit Learn, Plotly
 🔗dataset link -->https://statso.io/app-users-segmentation-case-study/
 
-## 🚧You see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
+## 🚧You can see the detailed code with visualizations by clicking on the Google Colab logo when you open the ipynb file
 
 # Objective
 We need to group users based on how they engage with the app. Users who use an app daily and the users who have uninstalled the app engaged with the app. This data grouped together can help us find the retained and churn users.
